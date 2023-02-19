@@ -69,3 +69,7 @@ In the Indian and Southeast Asian markets, approximately 80% of revenue comes fr
  
 
 In this project, you will define high-value customers based on a certain metric (mentioned later below) and predict churn only on high-value customers.
+
+
+Dataset for the model can be downloaded from: https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view?usp=sharing
+
